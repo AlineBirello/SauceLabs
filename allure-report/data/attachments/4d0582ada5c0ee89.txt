@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "new UiSelector().text(\"Welcome to EBAC Shop\").className(\"android.widget.TextView\")"
+}
