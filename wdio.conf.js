@@ -43,7 +43,7 @@ exports.config = {
         "appium:automationName": "UiAutomator2",
         "sauce:options": {
            appiumVersion: "2.0.0",
-           build: "ebac-test-2",
+           build: "SAUCELABS",
            name: "cadastro.spec.js",
            deviceOrientation: "PORTRAIT",
         }

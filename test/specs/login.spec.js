@@ -1,7 +1,7 @@
 const HomeScreen = require("../screenObjects/android/Home.screen");
 const LoginScreen = require("../screenObjects/android/Login.screen");
 
-let = email = 'alinebirello02@gmail.com'
+let = email = 'alinebirello03@gmail.com'
 let password = 'password01'
 describe('Logar no aplicativo Ebac Shop', () => {
     it('Login com sucesso', async () => {
